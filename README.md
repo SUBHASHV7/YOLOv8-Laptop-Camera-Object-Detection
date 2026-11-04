@@ -56,3 +56,5 @@ https://github.com/ultralytics/ultralytics
 
 **Platform:** Anaconda + Jupyter Notebook only.
 # YOLOv8-Laptop-Camera-Object-Detection
+
+<img width="797" height="627" alt="image" src="https://github.com/user-attachments/assets/f9fcc0ae-5338-41b2-9bc3-4624465f3202" />
